@@ -8,8 +8,16 @@ Bagels, a detective logic game, you must guess a secret number three-digit numbe
 
 You have 10 tries to guess the secret number
 
-# Installation
+### Installation
 
+1. Clone the repo
+   ```sh
+   git clone https://github.com/ibrahimraimi/bagels/
+   ```
+1. Run the scripts
+   ```sh
+   python main.py
+   ```
 ## Feedback and Bugs
 
 If you have any feedback or bug report, please feel free to raise an issue :)
